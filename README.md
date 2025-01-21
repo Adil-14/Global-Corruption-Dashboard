@@ -14,11 +14,6 @@ This repository showcases an interactive Tableau dashboard analyzing global corr
   - Offers interactive visualizations for exploring metrics.
 - **Data Source:** Publicly available corruption datasets.
 
----
-
-## 📊 Dashboard Preview
-
-![Dashboard Preview](images/global_corruption_dashboard.png)
 
 ---
 
