@@ -16,6 +16,14 @@ This repository showcases an interactive Tableau dashboard analyzing global corr
 
 ---
 
+## 📊 Dashboard Preview
+
+![Global Corruption Dashboard](images/global_corruption_dashboard.png)
+
+👉 [Explore the Interactive Dashboard](https://haproxy-traffic-splitter/views/GlobalCorruptionsWhichnationsarethemostcorrupt/GlobalCorruptionDash?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## 🔧 Tools Used
 - Tableau
 - Publicly available datasets
